@@ -1,0 +1,5 @@
+pycryptodome-test-vectors==1.0.12
+pycryptodomex==3.18.0
+requests==2.31.0
+rsa==4.9
+
